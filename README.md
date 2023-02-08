@@ -6,7 +6,7 @@ I like to keep myself in constant learning and bring as much value as possible i
 
 Available for new challenges 🚀
 
-## 👨🏻‍💻💻 About me
+## 👨🏻‍💻 About me
 * I'm from Venezuela 🇻🇪
 * My favorite programming language is TypeScript.
 * I like to read books on psychology and programming.
